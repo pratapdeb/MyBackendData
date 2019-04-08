@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "hello"
+      "age": 23
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "pratap deb"
   }
 }
